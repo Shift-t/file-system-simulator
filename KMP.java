@@ -1,4 +1,3 @@
-// ***From Lab Files***
 public class KMP{
     public static String searchKMP(String pattern, String text)
     {
